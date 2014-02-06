@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10060" format="1">
+  <advance width="750"/>
+  <unicode hex="040B"/>
+  <outline>
+    <contour>
+      <point x="319" y="0" type="line"/>
+      <point x="236" y="0" type="line"/>
+      <point x="236" y="626" type="line"/>
+      <point x="18" y="626" type="line"/>
+      <point x="18" y="700" type="line"/>
+      <point x="537" y="700" type="line"/>
+      <point x="537" y="626" type="line"/>
+      <point x="319" y="626" type="line"/>
+      <point x="319" y="395" type="line"/>
+      <point x="355" y="415"/>
+      <point x="416" y="440"/>
+      <point x="491" y="440" type="curve" smooth="yes"/>
+      <point x="604" y="440"/>
+      <point x="682" y="394"/>
+      <point x="682" y="244" type="curve" smooth="yes"/>
+      <point x="682" y="0" type="line"/>
+      <point x="599" y="0" type="line"/>
+      <point x="599" y="229" type="line" smooth="yes"/>
+      <point x="599" y="320"/>
+      <point x="558" y="366"/>
+      <point x="475" y="366" type="curve" smooth="yes"/>
+      <point x="411" y="366"/>
+      <point x="354" y="348"/>
+      <point x="319" y="320" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

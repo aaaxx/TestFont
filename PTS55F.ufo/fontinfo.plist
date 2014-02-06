@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>750</integer>
+	<key>capHeight</key>
+	<integer>700</integer>
+	<key>copyright</key>
+	<string>Copyright ¬© 2009 ParaType Ltd. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-250</integer>
+	<key>familyName</key>
+	<string>PT Sans</string>
+	<key>italicAngle</key>
+	<real>0.0</real>
+	<key>macintoshFONDFamilyID</key>
+	<integer>128</integer>
+	<key>macintoshFONDName</key>
+	<string>PT Sans</string>
+	<key>openTypeHeadLowestRecPPEM</key>
+	<integer>9</integer>
+	<key>openTypeHheaAscender</key>
+	<integer>900</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-276</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>119</integer>
+	<key>openTypeNameCompatibleFullName</key>
+	<string>PT Sans</string>
+	<key>openTypeNameDescription</key>
+	<string>PT Sans is a type family of universal use. It consists of 8 styles: regular and bold weights with corresponding italics form a standard computer font family; two narrow styles (regular and bold) are intended for documents that require tight set; two caption styles (regular and bold) are for texts of small point sizes. The design combines traditional conservative appearance with modern trends of humanistic sans serif and characterized by enhanced legibility. These features beside conventional use in business applications and printed stuff made the fonts quite useable for direction and guide signs, schemes, screens of information kiosks and other objects of urban visual communications.
+
+The fonts next to standard Latin and Cyrillic character sets contain signs of title languages of the national republics of Russian Federation and support the most of the languages of neighboring countries. The fonts were developed and released by ParaType in 2009 with financial support from Federal Agency of Print and Mass Communications of Russian Federation. Design - Alexandra Korolkova with assistance of Olga Umpeleva and supervision of Vladimir Yefimov.</string>
+	<key>openTypeNameDesigner</key>
+	<string>A.Korolkova, O.Umpeleva, V.Yefimov</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://www.paratype.com/help/designers/</string>
+	<key>openTypeNameLicense</key>
+	<string>ParaType Ltd grants you the right to use, copy, modify this font and distribute modified and unmodified copies of the font by any means, including placing on Web servers for free downloading, embedding in documents and Web pages, bundling with commercial and non commercial products, if it does not conflict with the ParaType Free Font License placed on www.paratype.com/public/pt_openlicense_eng.asp.</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://www.paratype.com/public/pt_openlicense_eng.asp</string>
+	<key>openTypeNameManufacturer</key>
+	<string>ParaType Ltd</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://www.paratype.com</string>
+	<key>openTypeNameUniqueID</key>
+	<string>ParaTypeLtd: PT Sans: 2010</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 2.002</string>
+	<key>openTypeOS2CodePageRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>2</integer>
+		<integer>4</integer>
+		<integer>7</integer>
+		<integer>29</integer>
+	</array>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>8</integer>
+		<integer>2</integer>
+	</array>
+	<key>openTypeOS2Panose</key>
+	<array>
+		<integer>2</integer>
+		<integer>11</integer>
+		<integer>5</integer>
+		<integer>3</integer>
+		<integer>2</integer>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>2</integer>
+		<integer>2</integer>
+		<integer>4</integer>
+	</array>
+	<key>openTypeOS2StrikeoutPosition</key>
+	<integer>250</integer>
+	<key>openTypeOS2StrikeoutSize</key>
+	<integer>50</integer>
+	<key>openTypeOS2SubscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SubscriptXSize</key>
+	<integer>650</integer>
+	<key>openTypeOS2SubscriptYOffset</key>
+	<integer>75</integer>
+	<key>openTypeOS2SubscriptYSize</key>
+	<integer>600</integer>
+	<key>openTypeOS2SuperscriptXOffset</key>
+	<integer>0</integer>
+	<key>openTypeOS2SuperscriptXSize</key>
+	<integer>650</integer>
+	<key>openTypeOS2SuperscriptYOffset</key>
+	<integer>350</integer>
+	<key>openTypeOS2SuperscriptYSize</key>
+	<integer>600</integer>
+	<key>openTypeOS2Type</key>
+	<array>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>750</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-250</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>200</integer>
+	<key>openTypeOS2UnicodeRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<integer>2</integer>
+		<integer>3</integer>
+		<integer>5</integer>
+		<integer>6</integer>
+		<integer>7</integer>
+		<integer>9</integer>
+		<integer>29</integer>
+		<integer>31</integer>
+		<integer>32</integer>
+		<integer>33</integer>
+		<integer>35</integer>
+		<integer>38</integer>
+		<integer>45</integer>
+		<integer>60</integer>
+		<integer>62</integer>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string>PARA</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>1019</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>276</integer>
+	<key>postscriptBlueFuzz</key>
+	<integer>1</integer>
+	<key>postscriptBlueScale</key>
+	<real>0.039625</real>
+	<key>postscriptBlueShift</key>
+	<integer>7</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+	</array>
+	<key>postscriptDefaultCharacter</key>
+	<string>space</string>
+	<key>postscriptDefaultWidthX</key>
+	<integer>500</integer>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptFontName</key>
+	<string>PTSans-Regular</string>
+	<key>postscriptForceBold</key>
+	<false/>
+	<key>postscriptFullName</key>
+	<string>PT Sans</string>
+	<key>postscriptIsFixedPitch</key>
+	<false/>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptSlantAngle</key>
+	<real>0.0</real>
+	<key>postscriptStemSnapH</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-100</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>50</integer>
+	<key>postscriptUniqueID</key>
+	<integer>-1</integer>
+	<key>postscriptWeightName</key>
+	<string>Normal</string>
+	<key>postscriptWindowsCharacterSet</key>
+	<integer>1</integer>
+	<key>styleMapFamilyName</key>
+	<string>PT Sans</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>trademark</key>
+	<string>PT Sans is a trademark of the ParaType Ltd.</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>2</integer>
+	<key>versionMinor</key>
+	<integer>2</integer>
+	<key>xHeight</key>
+	<integer>500</integer>
+	<key>year</key>
+	<integer>2010</integer>
+</dict>
+</plist>

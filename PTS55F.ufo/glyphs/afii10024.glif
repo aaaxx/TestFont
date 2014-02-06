@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10024" format="1">
+  <advance width="806"/>
+  <unicode hex="0416"/>
+  <outline>
+    <contour>
+      <point x="358" y="700" type="line"/>
+      <point x="438" y="700" type="line"/>
+      <point x="438" y="374" type="line"/>
+      <point x="481" y="388" type="line"/>
+      <point x="684" y="700" type="line"/>
+      <point x="776" y="700" type="line"/>
+      <point x="574" y="396" type="line"/>
+      <point x="534" y="364" type="line"/>
+      <point x="584" y="323" type="line"/>
+      <point x="807" y="0" type="line"/>
+      <point x="705" y="0" type="line"/>
+      <point x="484" y="324" type="line"/>
+      <point x="438" y="324" type="line"/>
+      <point x="438" y="0" type="line"/>
+      <point x="358" y="0" type="line"/>
+      <point x="358" y="336" type="line"/>
+      <point x="316" y="322" type="line"/>
+      <point x="95" y="0" type="line"/>
+      <point x="-1" y="0" type="line"/>
+      <point x="220" y="313" type="line"/>
+      <point x="268" y="351" type="line"/>
+      <point x="222" y="386" type="line"/>
+      <point x="13" y="700" type="line"/>
+      <point x="110" y="700" type="line"/>
+      <point x="313" y="386" type="line"/>
+      <point x="358" y="386" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

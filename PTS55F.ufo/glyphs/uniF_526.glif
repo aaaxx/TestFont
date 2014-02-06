@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniF526" format="1">
+  <advance width="583"/>
+  <unicode hex="F526"/>
+  <outline>
+    <component base="afii10053"/>
+    <component base="uniF6CB" xOffset="123"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

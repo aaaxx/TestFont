@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04AA.alt02" format="1">
+  <advance width="571"/>
+  <unicode hex="F50C"/>
+  <outline>
+    <component base="Ccedilla"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

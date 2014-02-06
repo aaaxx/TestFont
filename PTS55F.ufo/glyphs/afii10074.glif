@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10074" format="1">
+  <advance width="546"/>
+  <unicode hex="0438"/>
+  <outline>
+    <contour>
+      <point x="389" y="296" type="line"/>
+      <point x="392" y="358" type="line"/>
+      <point x="389" y="358" type="line"/>
+      <point x="348" y="294" type="line"/>
+      <point x="123" y="0" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="77" y="500" type="line"/>
+      <point x="157" y="500" type="line"/>
+      <point x="157" y="195" type="line"/>
+      <point x="154" y="136" type="line"/>
+      <point x="158" y="136" type="line"/>
+      <point x="197" y="198" type="line"/>
+      <point x="422" y="500" type="line"/>
+      <point x="469" y="500" type="line"/>
+      <point x="469" y="0" type="line"/>
+      <point x="389" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

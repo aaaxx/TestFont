@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04A4" format="1">
+  <advance width="861"/>
+  <unicode hex="04A4"/>
+  <outline>
+    <contour>
+      <point x="879" y="626" type="line"/>
+      <point x="587" y="626" type="line"/>
+      <point x="587" y="0" type="line"/>
+      <point x="504" y="0" type="line"/>
+      <point x="504" y="321" type="line"/>
+      <point x="168" y="321" type="line"/>
+      <point x="168" y="0" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="85" y="700" type="line"/>
+      <point x="168" y="700" type="line"/>
+      <point x="168" y="395" type="line"/>
+      <point x="504" y="395" type="line"/>
+      <point x="504" y="700" type="line"/>
+      <point x="879" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

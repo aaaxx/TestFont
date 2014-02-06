@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="percent" format="1">
+  <advance width="773"/>
+  <unicode hex="0025"/>
+  <outline>
+    <component base="ordmasculine" xOffset="26"/>
+    <component base="ordmasculine" xOffset="383" yOffset="-371"/>
+    <component base="fraction.alt" xOffset="313"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>

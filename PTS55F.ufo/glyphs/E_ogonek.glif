@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eogonek" format="1">
+  <advance width="536"/>
+  <unicode hex="0118"/>
+  <outline>
+    <contour>
+      <point x="85" y="700" type="line"/>
+      <point x="466" y="700" type="line"/>
+      <point x="466" y="626" type="line"/>
+      <point x="168" y="626" type="line"/>
+      <point x="168" y="397" type="line"/>
+      <point x="441" y="397" type="line"/>
+      <point x="441" y="323" type="line"/>
+      <point x="168" y="323" type="line"/>
+      <point x="168" y="74" type="line"/>
+      <point x="471" y="74" type="line"/>
+      <point x="471" y="0" type="line"/>
+      <point x="435" y="0" type="line"/>
+      <point x="400" y="-21"/>
+      <point x="378" y="-48"/>
+      <point x="378" y="-87" type="curve" smooth="yes"/>
+      <point x="378" y="-114"/>
+      <point x="396" y="-138"/>
+      <point x="429" y="-138" type="curve" smooth="yes"/>
+      <point x="442" y="-138"/>
+      <point x="455" y="-135"/>
+      <point x="469" y="-128" type="curve"/>
+      <point x="480" y="-171" type="line"/>
+      <point x="460" y="-187"/>
+      <point x="422" y="-195"/>
+      <point x="394" y="-195" type="curve" smooth="yes"/>
+      <point x="334" y="-195"/>
+      <point x="295" y="-161"/>
+      <point x="295" y="-106" type="curve" smooth="yes"/>
+      <point x="295" y="-59"/>
+      <point x="324" y="-23"/>
+      <point x="375" y="0" type="curve"/>
+      <point x="85" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>org.robofab.fontlab.mark</key>
+      <integer>0</integer>
+    </dict>
+  </lib>
+</glyph>
