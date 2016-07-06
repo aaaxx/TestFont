@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="1">
-  <advance width="658"/>
+  <advance width="662.0"/>
   <unicode hex="00D0"/>
   <outline>
     <contour>
@@ -44,6 +44,9 @@
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
       <key>org.robofab.fontlab.mark</key>
       <integer>0</integer>
     </dict>

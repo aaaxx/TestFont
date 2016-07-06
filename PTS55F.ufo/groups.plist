@@ -2,18 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>@GRP_L_A</key>
-	<array>
-		<string>A</string>
-		<string>Agrave</string>
-		<string>Aacute</string>
-		<string>Acircumflex</string>
-		<string>Atilde</string>
-		<string>Adieresis</string>
-		<string>Aring</string>
-		<string>Abreve</string>
-	</array>
-	<key>@GRP_L_H</key>
+	<key>.mx_L_H</key>
 	<array>
 		<string>H</string>
 		<string>B</string>
@@ -34,7 +23,7 @@
 		<string>Edieresis</string>
 		<string>Ntilde</string>
 	</array>
-	<key>@GRP_L_O</key>
+	<key>.mx_L_O</key>
 	<array>
 		<string>O</string>
 		<string>C</string>
@@ -47,6 +36,43 @@
 		<string>Otilde</string>
 		<string>Odieresis</string>
 		<string>Oslash</string>
+	</array>
+	<key>.mx_R_Dcurl</key>
+	<array>
+		<string>afii10021</string>
+		<string>afii10040</string>
+		<string>afii10043</string>
+	</array>
+	<key>.mx_R_H</key>
+	<array>
+		<string>H</string>
+		<string>I</string>
+		<string>M</string>
+		<string>N</string>
+		<string>Ntilde</string>
+	</array>
+	<key>.mx_R_O</key>
+	<array>
+		<string>O</string>
+		<string>D</string>
+		<string>Ograve</string>
+		<string>Oacute</string>
+		<string>Ocircumflex</string>
+		<string>Otilde</string>
+		<string>Odieresis</string>
+		<string>Oslash</string>
+		<string>Eth</string>
+	</array>
+	<key>@GRP_L_A</key>
+	<array>
+		<string>A</string>
+		<string>Agrave</string>
+		<string>Aacute</string>
+		<string>Acircumflex</string>
+		<string>Atilde</string>
+		<string>Adieresis</string>
+		<string>Aring</string>
+		<string>Abreve</string>
 	</array>
 	<key>@GRP_R_A</key>
 	<array>
@@ -70,14 +96,6 @@
 		<string>uni04AA.alt02</string>
 		<string>uni04AA</string>
 	</array>
-	<key>@GRP_R_H</key>
-	<array>
-		<string>H</string>
-		<string>I</string>
-		<string>M</string>
-		<string>N</string>
-		<string>Ntilde</string>
-	</array>
 	<key>@GRP_R_L</key>
 	<array>
 		<string>L</string>
@@ -86,18 +104,6 @@
 		<string>Lcaron</string>
 		<string>Lslash</string>
 		<string>Lcommaaccent</string>
-	</array>
-	<key>@GRP_R_O</key>
-	<array>
-		<string>O</string>
-		<string>D</string>
-		<string>Ograve</string>
-		<string>Oacute</string>
-		<string>Ocircumflex</string>
-		<string>Otilde</string>
-		<string>Odieresis</string>
-		<string>Oslash</string>
-		<string>Eth</string>
 	</array>
 	<key>@MMK_L_C</key>
 	<array>

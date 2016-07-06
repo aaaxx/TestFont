@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="1">
-  <advance width="517"/>
+  <advance width="512"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="499" y="0" type="line"/>
-      <point x="85" y="0" type="line"/>
-      <point x="85" y="700" type="line"/>
-      <point x="168" y="700" type="line"/>
-      <point x="168" y="74" type="line"/>
-      <point x="499" y="74" type="line"/>
+      <point x="494" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="80" y="700" type="line"/>
+      <point x="163" y="700" type="line"/>
+      <point x="163" y="74" type="line"/>
+      <point x="494" y="74" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
       <key>org.robofab.fontlab.mark</key>
       <integer>0</integer>
     </dict>
